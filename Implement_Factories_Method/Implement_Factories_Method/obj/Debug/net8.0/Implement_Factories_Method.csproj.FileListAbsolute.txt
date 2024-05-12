@@ -1,0 +1,14 @@
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\bin\Debug\net8.0\Implement_Factories_Method.exe
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\bin\Debug\net8.0\Implement_Factories_Method.deps.json
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\bin\Debug\net8.0\Implement_Factories_Method.runtimeconfig.json
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\bin\Debug\net8.0\Implement_Factories_Method.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\bin\Debug\net8.0\Implement_Factories_Method.pdb
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.AssemblyInfoInputs.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.AssemblyInfo.cs
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\refint\Implement_Factories_Method.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.pdb
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\Implement_Factories_Method.genruntimeconfig.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Factories_Method\Implement_Factories_Method\obj\Debug\net8.0\ref\Implement_Factories_Method.dll

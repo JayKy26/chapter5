@@ -1,0 +1,14 @@
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\bin\Debug\net8.0\Implement_Singleton_Pattern.exe
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\bin\Debug\net8.0\Implement_Singleton_Pattern.deps.json
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\bin\Debug\net8.0\Implement_Singleton_Pattern.runtimeconfig.json
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\bin\Debug\net8.0\Implement_Singleton_Pattern.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\bin\Debug\net8.0\Implement_Singleton_Pattern.pdb
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.AssemblyInfoInputs.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.AssemblyInfo.cs
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\refint\Implement_Singleton_Pattern.dll
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.pdb
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\Implement_Singleton_Pattern.genruntimeconfig.cache
+C:\FPT\PRN212\Bài Tập\chapter5\Implement_Singleton_Pattern\Implement_Singleton_Pattern\obj\Debug\net8.0\ref\Implement_Singleton_Pattern.dll
